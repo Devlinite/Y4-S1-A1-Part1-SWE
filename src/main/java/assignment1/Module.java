@@ -1,7 +1,6 @@
 package assignment1;
 
 public class Module {
-	//(Module Name, ID (CT417), List of students)
 	private String name;
 	private int id;
 	private Student[] studentList;
